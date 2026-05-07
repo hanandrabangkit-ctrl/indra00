@@ -1,0 +1,5 @@
+Hallo mas, Salam kenal saya Bangkit dari Nganjuk
+
+Resolusi saya:
+- Membuat website menggunakan framework Javascipt
+- Bekerja di Manajemen 
